@@ -1,0 +1,11 @@
+* {
+    text-align: center;
+}
+h1 {
+    background-color: chartreuse;
+    padding: 1em;
+}
+div {
+    width: 50%;
+    border: 1px inset hotpink;
+}
